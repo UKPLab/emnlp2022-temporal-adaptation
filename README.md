@@ -1,5 +1,5 @@
 
-<h4 align="center">The challenges of temporal alignment on Twitter during crises</h4>
+<h2 align="center">The challenges of temporal alignment on Twitter during crises</h2>
 
 <p align="center">
   <a href="https://iclr.cc/"><img src="http://img.shields.io/badge/ICLR-2020-4b44ce.svg"></a>
