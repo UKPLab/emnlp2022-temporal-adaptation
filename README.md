@@ -9,7 +9,6 @@
   </a>
 </p>
 
-# The challenges of temporal alignment on Twitter during crises
 
 This repo contains the code that we used for the experiments in our paper. 
 
