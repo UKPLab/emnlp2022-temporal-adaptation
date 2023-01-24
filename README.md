@@ -63,3 +63,8 @@ Baseline.py runs the experiments, using the following arguments:
 ### Expected Results
 
 Please refer to _Section 5_ of the paper.
+
+### Parameter Description
+
+* Use the default parameters for optimal results.
+
