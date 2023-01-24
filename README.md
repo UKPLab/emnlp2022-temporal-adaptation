@@ -11,7 +11,7 @@
 
 # The challenges of temporal alignment on Twitter during crises
 
-This repo contains the code that we use for all our experiments in our paper. 
+This repo contains the code that we used for the experiments in our paper. 
 
 ```
 @InProceedings{pramanick:2022:EMNLP,
